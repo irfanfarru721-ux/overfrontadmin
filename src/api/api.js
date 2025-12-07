@@ -1,4 +1,4 @@
-const BASE_URL = "https://final-back-z70x.onrender.com/api"; // Replace with your backend URL if deployed
+const BASE_URL = "https://completed-backend.onrender.com/api"; // Replace with your backend URL if deployed
 
 const getToken = () => localStorage.getItem("adminToken");
 
